@@ -36,8 +36,6 @@ class ViewController: UIViewController {
     @IBAction func newQuoteButtonPressed(_ sender: UIButton) {
         //change anime info displayed on the screen
         animeManager.generateAnime()
-//        let chosenImage = backgroundImages.randomElement()!
-//        backgroundImageView.image = UIImage(named: chosenImage)
     }
     
 }

@@ -60,9 +60,9 @@
 		453BDD9429D24600005542E6 /* AnimeQuoteGenerator */ = {
 			isa = PBXGroup;
 			children = (
-				45400A3729D2C09C00E0D1D5 /* Controller */,
 				45400A3529D2C06E00E0D1D5 /* Model */,
 				45400A3629D2C08C00E0D1D5 /* View */,
+				45400A3729D2C09C00E0D1D5 /* Controller */,
 				453BDD9529D24600005542E6 /* AppDelegate.swift */,
 				453BDD9729D24600005542E6 /* SceneDelegate.swift */,
 				453BDD9E29D24602005542E6 /* Assets.xcassets */,
